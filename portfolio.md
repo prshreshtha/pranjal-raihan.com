@@ -40,7 +40,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 
 * Header-only, idiomatic C++14 with template metaprogramming
 
-* Policy-based implementation.
+* Policy-based implementation
 
 * Source code at [https://github.com/prshreshtha/slotty](https://github.com/prshreshtha/slotty)
 
@@ -69,7 +69,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 * The `Event` interface may only be used to add or remove listeners. An `Event`'s interface does not expose any `raise` method
 
 * There are two implementations provided for `Event`.
-  * `PublicEvent` – Anyone case `.raise` this event.
+  * `PublicEvent` – Anyone case `.raise` this event
   * `PrivilegedEvent` – `.raise` is protected by a precidate provided at construction
 
 * Very old project from high school I used in a game

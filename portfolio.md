@@ -8,7 +8,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 
 ### Smartdirect
 
-* A smart URL shortener written with Ruby on Rails and Ember.js
+* A smart URL-shortener written with Ruby on Rails and Ember.js
 
 * Source code at [smartdirecct-backend](https://github.com/prshreshtha/smartdirect-backend) and [smartdirect-web](https://github.com/prshreshtha/smartdirect-web)
 
@@ -22,7 +22,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 
 ### Texart
 
-* Generate ASCII art from images.
+* An ASCII art generator from images.
 
 * Written in idiomatic C# (works on Windows/OS X)
 

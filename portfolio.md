@@ -8,7 +8,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 
 ### Smartdirect
 
-* A Smart URL shortener written with Ruby on Rails and EmberJS
+* A smart URL shortener written with Ruby on Rails and Ember.js
 
 * Source code at [smartdirecct-backend](https://github.com/prshreshtha/smartdirect-backend) and [smartdirect-web](https://github.com/prshreshtha/smartdirect-web)
 

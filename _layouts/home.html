@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <center><h1 class="post-title">{{ page.title | escape }}</h1></center>
+</header>
+
+<div class="home">
+  {{ content }}
+  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+</div>

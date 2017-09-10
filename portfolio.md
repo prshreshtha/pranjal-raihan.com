@@ -10,7 +10,7 @@ I have worked on many personal projects over the years. I've learned a lot from 
 
 * A smart URL-shortener written with Ruby on Rails and Ember.js
 
-* Source code at [smartdirecct-backend](https://github.com/prshreshtha/smartdirect-backend) and [smartdirect-web](https://github.com/prshreshtha/smartdirect-web)
+* Source code at [smartdirect-backend](https://github.com/prshreshtha/smartdirect-backend) and [smartdirect-web](https://github.com/prshreshtha/smartdirect-web)
 
 * See the READMEs for details
   * [Backend](https://github.com/prshreshtha/smartdirect-backend/blob/master/README.md)
